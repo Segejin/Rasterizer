@@ -1,0 +1,3 @@
+C:/Users/Craig Totten/Desktop/School/CIS 441/project1E/bin/CMakeFiles/rasterizer.dir
+C:/Users/Craig Totten/Desktop/School/CIS 441/project1E/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Craig Totten/Desktop/School/CIS 441/project1E/bin/CMakeFiles/ZERO_CHECK.dir
